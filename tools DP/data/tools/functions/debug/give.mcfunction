@@ -1,0 +1,2 @@
+#give @s minecraft:carrot_on_a_stick[minecraft:custom_name='{"text":"입체 기동 장치", "italic":false}', minecraft:custom_model_data=1, minecraft:custom_data={tools:"hook"}]
+give @s minecraft:carrot_on_a_stick[minecraft:custom_name='{"text":"딱총 나무 지팡이", "italic":false}', minecraft:custom_model_data=2, minecraft:custom_data={tools:"edit"}]

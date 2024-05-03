@@ -1,0 +1,1 @@
+function tools:hook/main with storage tools:hook
