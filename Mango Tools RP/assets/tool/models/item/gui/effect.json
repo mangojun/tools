@@ -1,0 +1,6 @@
+{
+    "parent": "tool:item/gui",
+    "textures": {
+        "layer0": "tool:item/gui/effect"
+    }
+}
